@@ -700,6 +700,13 @@ var images = [
         "comment": "",
     },
     {
+        "filename": "manny.png",
+        "title": "Manny is ownwy thwee",
+        "author": "ocean",
+        "date": "10 Mar 2025 22:44:00 GMT",
+        "comment": "",
+    },
+    {
         "filename": "adventure.png",
         "title": "jelly adventure",
         "author": "Vex",
