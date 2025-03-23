@@ -8,7 +8,7 @@ var images = [
     },
     {
         "filename": "failed.png",
-        "title": "",
+        "title": "Failed",
         "author": "Vex",
         "date": "08 Apr 2024 06:12:00 GMT",
         "comment": "",
@@ -22,14 +22,14 @@ var images = [
     },
     {
         "filename": "done.png",
-        "title": "",
+        "title": "Done",
         "author": "Vex",
         "date": "09 Apr 2024 01:38:00 GMT",
         "comment": "",
     },
     {
         "filename": "evening.png",
-        "title": "",
+        "title": "Evening",
         "author": "Vex",
         "date": "09 Apr 2024 01:57:00 GMT",
         "comment": "",
@@ -169,14 +169,14 @@ var images = [
     },
     {
         "filename": "approved.png",
-        "title": "",
+        "title": "Approved",
         "author": "ocean",
         "date": "26 May 2024 21:55:00 GMT",
         "comment": "",
     },
     {
         "filename": "oneoff.png",
-        "title": "",
+        "title": "Just a one-off",
         "author": "Vex",
         "date": "04 Jun 2024 02:39:00 GMT",
         "comment": "",
@@ -190,7 +190,7 @@ var images = [
     },
     {
         "filename": "jail.png",
-        "title": "",
+        "title": "Jail",
         "author": "ocean",
         "date": "05 Jun 2024 03:13:00 GMT",
         "comment": "",
@@ -218,7 +218,7 @@ var images = [
     },
     {
         "filename": "debuddy.png",
-        "title": "",
+        "title": "De buddy",
         "author": "ocean",
         "date": "15 Jun 2024 15:16:00 GMT",
         "comment": "",
@@ -288,7 +288,7 @@ var images = [
     },
     {
         "filename": "escape.png",
-        "title": "",
+        "title": "Escape",
         "author": "Vex",
         "date": "28 Jul 2024 21:34:00 GMT",
         "comment": "",
@@ -470,14 +470,14 @@ var images = [
     },
     {
         "filename": "subconscious.png",
-        "title": "",
+        "title": "Subconscious",
         "author": "Vex",
         "date": "09 Oct 2024 01:16:00 GMT",
         "comment": "",
     },
     {
         "filename": "puns.png",
-        "title": "",
+        "title": "Puns",
         "author": "Vex",
         "date": "09 Oct 2024 01:21:00 GMT",
         "comment": "",

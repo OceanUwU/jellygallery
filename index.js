@@ -20,7 +20,12 @@ function showImag(filename) {
 }
 
 addEventListener('load', _ => {
+    let gallery = document.getElementById('gallery');
     images.forEach(img => {
-        document.getElementById('gallery').innerHTML += `<div class="imag" title="${img.title}"><img onclick="showImag('${img.filename}')" src="img/${img.filename}"></div>`;
+        gallery.innerHTML += `<div class="imag" id="${img.filename}" data-bs-toggle="tooltip" title="${img.title}"><img onclick="showImag('${img.filename}')" src="img/${img.filename}"></div>`;
+        new bootstrap.Tooltip(gallery.children[gallery.children.length - 1]);
+    });
+    [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]')).map(function (tooltipTriggerEl) {
+      return new bootstrap.Tooltip(tooltipTriggerEl)
     });
 });
