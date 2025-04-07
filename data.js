@@ -759,7 +759,14 @@ var images = [
         "filename": "jellybirthday.png",
         "title": "Jelly G.'s first surprise birthday party",
         "author": "ocean",
-        "date": "07 Apr 2025 19:46:00 GMT",
+        "date": "07 Apr 2025 18:46:00 GMT+1",
         "comment": "",
+    },
+    {
+        "filename": "pepsithing.png",
+        "title": "\"Pepsi spent millions of dollars to design a new logo that could function in outer space... Coca-Cola used a pencil.\"",
+        "author": "anon",
+        "date": "07 Apr 2025 21:47:00 GMT+1",
+        "comment": "90% of this image is credit to Randall Munroe",
     },
 ]
