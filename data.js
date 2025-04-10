@@ -769,4 +769,18 @@ var images = [
         "date": "07 Apr 2025 21:47:00 GMT+1",
         "comment": "90% of this image is credit to Randall Munroe",
     },
+    {
+        "filename": "vexart.png",
+        "title": "i like vex art",
+        "author": "ocean",
+        "date": "10 Apr 2025 17:26:00 GMT+1",
+        "comment": "",
+    },
+    {
+        "filename": "vacation.png",
+        "title": "Jelly G. needs a vacation",
+        "author": "Vex",
+        "date": "10 Apr 2025 17:48:00 GMT+1",
+        "comment": "",
+    },
 ]
