@@ -790,4 +790,11 @@ var images = [
         "date": "11 Apr 2025 02:59:00 GMT",
         "comment": "",
     },
+    {
+        "filename": "resurrection.png",
+        "title": "\"Mother of Resurrection\"",
+        "author": "Lua Viper",
+        "date": "11 Apr 2025 20:02:00 GMT",
+        "comment": "",
+    },
 ]
