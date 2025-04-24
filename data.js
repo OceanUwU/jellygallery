@@ -797,4 +797,11 @@ var images = [
         "date": "16 Apr 2025 20:02:00 GMT",
         "comment": "",
     },
+    {
+        "filename": "help.png",
+        "title": "Jelly G. on getting help",
+        "author": "Vex",
+        "date": "24 Apr 2025 02:11:00 GMT+1",
+        "comment": "",
+    },
 ]
