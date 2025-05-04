@@ -813,9 +813,16 @@ var images = [
     },
     {
         "filename": "ghost.png",
-        "title": "ghost",
+        "title": "Jelly G. meets a ghost",
         "author": "Vex",
         "date": "04 May 2025 17:33:00 GMT+1",
+        "comment": "",
+    },
+    {
+        "filename": "ghost2.png",
+        "title": "The ghost causes mayhem",
+        "author": "Vex",
+        "date": "04 May 2025 17:52:00 GMT+1",
         "comment": "",
     },
 ]
