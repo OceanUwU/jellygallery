@@ -811,4 +811,11 @@ var images = [
         "date": "29 Apr 2025 19:25:00 GMT+1",
         "comment": "",
     },
+    {
+        "filename": "ghost.png",
+        "title": "ghost",
+        "author": "Vex",
+        "date": "04 May 2025 17:33:00 GMT+1",
+        "comment": "",
+    },
 ]
