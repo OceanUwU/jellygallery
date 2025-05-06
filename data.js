@@ -825,4 +825,11 @@ var images = [
         "date": "04 May 2025 17:52:00 GMT+1",
         "comment": "",
     },
+    {
+        "filename": "ghost3.png",
+        "title": "Jelly G. asks Fimble for help",
+        "author": "Vex",
+        "date": "06 May 2025 03:17:00 GMT+1",
+        "comment": "",
+    },
 ]
