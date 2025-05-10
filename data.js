@@ -832,4 +832,25 @@ var images = [
         "date": "06 May 2025 03:17:00 GMT+1",
         "comment": "",
     },
+    {
+        "filename": "ghost4.png",
+        "title": "Communicating with the ghost",
+        "author": "Vex",
+        "date": "06 May 2025 03:35:00 GMT+1",
+        "comment": "",
+    },
+    {
+        "filename": "borp2.png",
+        "title": "Jelly G. on BORP disease",
+        "author": "Vex",
+        "date": "06 May 2025 04:00:00 GMT+1",
+        "comment": "",
+    },
+    {
+        "filename": "razor.png",
+        "title": "really cool thing to wake up to",
+        "author": "Ocean",
+        "date": "10 May 2025 16:33:00 GMT+1",
+        "comment": "pro tip if you have a little brother amke sure he knows where your razor is so he can open the compartment over your desk and pour a months worth of shaved hair all over your desk and spread it out",
+    },
 ]
