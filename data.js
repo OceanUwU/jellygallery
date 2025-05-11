@@ -849,8 +849,15 @@ var images = [
     {
         "filename": "razor.png",
         "title": "really cool thing to wake up to",
-        "author": "Ocean",
+        "author": "ocean",
         "date": "10 May 2025 16:33:00 GMT+1",
         "comment": "pro tip if you have a little brother amke sure he knows where your razor is so he can open the compartment over your desk and pour a months worth of shaved hair all over your desk and spread it out",
+    },
+    {
+        "filename": "ghost5.png",
+        "title": "Back in the present...",
+        "author": "Vex",
+        "date": "11 May 2025 03:22:00 GMT+1",
+        "comment": "",
     },
 ]
