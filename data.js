@@ -676,7 +676,7 @@ var images = [
 		"title": "Another Option",
 		"author": "Ardent",
 		"date": "09 Mar 2025 18:32:00 GMT",
-		"comment: "",
+		"comment": "",
 	},
     {
         "filename": "sunset.png",
@@ -874,4 +874,11 @@ var images = [
         "date": "11 May 2025 03:22:00 GMT+1",
         "comment": "",
     },
+	{
+		"filename": "outage.png",
+		"title": "Jelly G.allery down!?",
+		"author": "Vex",
+		"date": "13 May 2025 17:35:00 GMT+1",
+		"comment": "",
+	}
 ]
