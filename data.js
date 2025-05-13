@@ -671,6 +671,13 @@ var images = [
         "date": "09 Mar 2025 17:12:00 GMT",
         "comment": "",
     },
+	{
+		"filename": "customhat.png",
+		"title": "Another Option",
+		"author": "Ardent",
+		"date": "09 Mar 2025 18:32:00 GMT",
+		"comment: "",
+	},
     {
         "filename": "sunset.png",
         "title": "Sunrise",
@@ -846,6 +853,13 @@ var images = [
         "date": "06 May 2025 04:00:00 GMT+1",
         "comment": "",
     },
+	{
+		"filename": "packageg.png",
+		"title": "Jelly G. on a box!",
+		"author": "Ardent",
+		"date": "09 May 2025 22:23:00 GMT+1",
+		"comment": "",
+	},
     {
         "filename": "razor.png",
         "title": "really cool thing to wake up to",
