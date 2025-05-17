@@ -880,5 +880,12 @@ var images = [
 		"author": "Vex",
 		"date": "13 May 2025 17:35:00 GMT+1",
 		"comment": "",
-	}
+	},
+    {
+        "filename": "sun.png",
+        "title": "Jelly G. and the freaky ass sun",
+        "author": "Vex",
+        "date": "17 May 2025 21:31:00 GMT+1",
+        "comment": "",
+    },
 ]
