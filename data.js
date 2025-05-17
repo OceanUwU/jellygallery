@@ -883,9 +883,16 @@ var images = [
 	},
     {
         "filename": "sun.png",
-        "title": "Jelly G. and the freaky ass sun",
+        "title": "Jelly G. and the FREAKY ASS sun",
         "author": "Vex",
         "date": "17 May 2025 21:31:00 GMT+1",
+        "comment": "",
+    },
+    {
+        "filename": "moon.png",
+        "title": "The moon and the FREAKY ASS Jelly G.",
+        "author": "fourplusfour",
+        "date": "17 May 2025 22:05:00 GMT+1",
         "comment": "",
     },
 ]
