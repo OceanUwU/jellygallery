@@ -899,7 +899,21 @@ var images = [
 		"filename": "jellygodobadjawizardspell.png",
 		"title": "#odobadja",
 		"author": "kiooeht",
-		"date": "18 May 2025 15:07:00 GMT+1",
+		"date": "19 May 2025 03:59:00 GMT+1",
 		"comment": "",
-	},
+    },
+    {
+        "filename": "odobadja2.png",
+        "title": "Aftermath of the odobadja wizard spell",
+        "author": "Vex",
+        "date": "19 May 2025 04:50:00 GMT+1",
+        "comment": "",
+    },
+    {
+        "filename": "odobadja3.png",
+        "title": "The Caster mourns",
+        "author": "Korbo",
+        "date": "19 May 2025 05:08:00 GMT+1",
+        "comment": "",
+    },
 ]
