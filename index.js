@@ -10,9 +10,9 @@ imagePopup.onclick = () => {
 function showImag(filename) {
     let img = images.find(i => i.filename == filename);
     document.getElementById('img-big').setAttribute('src', `img/${filename}`);
-    document.getElementById('title').innerText = img.title;
+    document.getElementById('title').innerHTML = img.title;
     document.getElementById('author').innerHTML = `by <b>${img.author}</b> on ${new Date(Date.parse(img.date)).toISOString().slice(0,10)}`;
-    document.getElementById('comment').innerText = img.comment;
+    document.getElementById('comment').innerHTML = img.comment;
     if (img.comment == "") document.getElementById('comment').classList.add('d-none');
     else document.getElementById('comment').classList.remove('d-none');
     imagePopup.style.display = '';

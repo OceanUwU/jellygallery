@@ -923,4 +923,25 @@ var images = [
         "date": "02 Jun 2025 18:38:00 GMT+1",
         "comment": "",
     },
+    {
+        "filename": "message.png",
+        "title": "The Message",
+        "author": "ocean",
+        "date": "8 Jun 2025 18:00:00 GMT+1",
+        "comment": "Some words in this strip might have a <a href='https://s.team/a/3301290'>deeper meaning</a>.",
+    },
+    {
+        "filename": "audition1.png",
+        "title": "The Audition, part 1",
+        "author": "Vex",
+        "date": "10 Jun 2025 21:30:00 GMT+1",
+        "comment": "",
+    },
+    {
+        "filename": "audition2.png",
+        "title": "The Audition, part 2",
+        "author": "Vex",
+        "date": "10 Jun 2025 22:02:00 GMT+1",
+        "comment": "",
+    },
 ]
