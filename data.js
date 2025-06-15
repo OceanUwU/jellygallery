@@ -944,4 +944,18 @@ var images = [
         "date": "10 Jun 2025 22:02:00 GMT+1",
         "comment": "",
     },
+    {
+        "filename": "stonebirthday1.png",
+        "title": "Stone Fricking Thing's birthday",
+        "author": "ocean",
+        "date": "15 Jun 2025 23:28:00 GMT+1",
+        "comment": "",
+    },
+    {
+        "filename": "stonebirthday2.png",
+        "title": "And now, a word from our sponsor",
+        "author": "ocean",
+        "date": "15 Jun 2025 23:28:30 GMT+1",
+        "comment": "",
+    },
 ]
