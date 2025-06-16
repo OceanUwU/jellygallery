@@ -958,4 +958,18 @@ var images = [
         "date": "15 Jun 2025 23:28:30 GMT+1",
         "comment": "",
     },
+    {
+        "filename": "stonebirthday3.png",
+        "title": "Back at the Shop...",
+        "author": "Vex",
+        "date": "16 Jun 2025 05:25:00 GMT+1",
+        "comment": "",
+    },
+    {
+        "filename": "stonebirthday4.png",
+        "title": "Fimble helps Jelly G. track down Stone Fricking Thing",
+        "author": "Vex",
+        "date": "16 Jun 2025 05:25:30 GMT+1",
+        "comment": "",
+    },
 ]
