@@ -972,4 +972,11 @@ var images = [
         "date": "16 Jun 2025 05:25:30 GMT+1",
         "comment": "",
     },
+    {
+        "filename": "award.png",
+        "title": "Jelly G. has an award for you",
+        "author": "Vex",
+        "date": "09 Jul 2025 05:10:00 GMT+1",
+        "comment": "\"getting a bunch of ores so i can get armor so i can beat a boss so i can get more ores... that's some of the best games right there'\"",
+    },
 ]
