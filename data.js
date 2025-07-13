@@ -979,4 +979,11 @@ var images = [
         "date": "09 Jul 2025 05:10:00 GMT+1",
         "comment": "\"getting a bunch of ores so i can get armor so i can beat a boss so i can get more ores... that's some of the best games right there\"",
     },
+    {
+        "filename": "apology.png",
+        "title": "Jelly G. and the apology potion",
+        "author": "Vex",
+        "date": "13 Jul 2025 01:11:00 GMT+1",
+        "comment": "use this for when you have made a mistake and you need to say \"sorry\" (he has to drink it because of what you did)",
+    },
 ]
