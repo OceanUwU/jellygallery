@@ -986,4 +986,11 @@ var images = [
         "date": "13 Jul 2025 01:11:00 GMT+1",
         "comment": "use this for when you have made a mistake and you need to say \"sorry\" (he has to drink it because of what you did)",
     },
+    {
+        "filename": "hammer.png",
+        "title": "Jelly G. gets hammered",
+        "author": "ocean",
+        "date": "20 Jul 2025 17:00:00 GMT+1",
+        "comment": "",
+    },
 ]
