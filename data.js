@@ -993,4 +993,18 @@ var images = [
         "date": "20 Jul 2025 17:00:00 GMT+1",
         "comment": "",
     },
+    {
+        "filename": "toilet.png",
+        "title": "Mr. Toilet says hi",
+        "author": "Vex & Enbeon",
+        "date": "27 Jul 2025 22:33:00 GMT+1",
+        "comment": "",
+    },
+    {
+        "filename": "toiletboss.png",
+        "title": "Mr. Toilet boss fight",
+        "author": "Vex & Enbeon",
+        "date": "27 Jul 2025 22:38:00 GMT+1",
+        "comment": "",
+    },
 ]
