@@ -1007,4 +1007,11 @@ var images = [
         "date": "27 Jul 2025 22:38:00 GMT+1",
         "comment": "",
     },
+    {
+        "filename": "bite.png",
+        "title": "The Bite of 'G.",
+        "author": "ocean",
+        "date": "29 Jul 2025 15:34:00 GMT+1",
+        "comment": "",
+    },
 ]
