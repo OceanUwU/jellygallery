@@ -1014,4 +1014,11 @@ var images = [
         "date": "29 Jul 2025 15:34:00 GMT+1",
         "comment": "",
     },
+    {
+        "filename": "finger.png",
+        "title": "The finger",
+        "author": "ocean",
+        "date": "29 Jul 2025 15:45:00 GMT+1",
+        "comment": "",
+    },
 ]
