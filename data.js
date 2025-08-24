@@ -1028,4 +1028,11 @@ var images = [
         "date": "10 Aug 2025 15:52:00 GMT+1",
         "comment": "",
     },
+    {
+        "filename": "powercard.png",
+        "title": "\"that's a neat relic, would be fun as a power card too in the right context'\"",
+        "author": "Lua Viper",
+        "date": "24 Aug 2025 18:47:00 GMT+1",
+        "comment": "Featuring the professor from <a href='https://steamcommunity.com/sharedfiles/filedetails/?id=3410083760'>Spire Cafe</a>.",
+    },
 ]
