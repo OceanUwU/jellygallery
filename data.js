@@ -1039,14 +1039,14 @@ var images = [
         "filename": "smaller.png",
         "title": "Smaller",
         "author": "Vex",
-        "date": "26 Aug 2025 21:44:00 GMT+1",
+        "date": "26 Aug 2025 22:44:00 GMT+1",
         "comment": "",
     },
     {
         "filename": "sizes.png",
         "title": "The various sizes of G.",
         "author": "Dayvig",
-        "date": "26 Aug 2025 22:00:00 GMT+1",
+        "date": "26 Aug 2025 23:00:00 GMT+1",
         "comment": "",
     },
 ]
