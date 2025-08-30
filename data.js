@@ -1064,4 +1064,11 @@ var images = [
         "date": "30 Aug 2025 6:47:00 GMT+1",
         "comment": "",
     },
+    {
+        "filename": "wah.png",
+        "title": "Arch-rivals",
+        "author": "Lua Viper",
+        "date": "30 Aug 2025 21:45:00 GMT+1",
+        "comment": "",
+    },
 ]
