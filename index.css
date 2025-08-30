@@ -48,14 +48,14 @@ body {
     flex-direction: column;
 }
 
-#imag-container {
+#imag-container, #video-container {
     width: 100%;
     flex-grow: 1;
     flex-shrink: 1;
     overflow: hidden;
 }
 
-#img-big {
+#img-big, #video-controller {
     width: 90%;
     max-width: 90%;
     height: 90%;

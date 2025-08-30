@@ -1036,6 +1036,14 @@ var images = [
         "comment": "Featuring the professor from <a href='https://steamcommunity.com/sharedfiles/filedetails/?id=3410083760'>Spire Cafe</a>.",
     },
     {
+        "filename": "singingG.mp4",
+        "videoType": "mp4",
+        "title": "SINGING G.",
+        "author": "ocean",
+        "date": "26 Aug 2025 22:25:00 GMT+1",
+        "comment": "this is a parody of my favourite youtube video ever, <a href='https://youtu.be/U2suj6q_gME?list=PLBGRrWbJlzNwqg_hM_Z_9SDFqF2OptWIm'>SINGING COWS</a>",
+    },
+    {
         "filename": "smaller.png",
         "title": "Smaller",
         "author": "Vex",
