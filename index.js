@@ -16,7 +16,7 @@ function setInfo(title, author, date, comment) {
     document.getElementById('title').innerHTML = title;
     document.getElementById('author').innerHTML = `by <b>${author}</b> on ${new Date(Date.parse(date)).toISOString().slice(0,10)}`;
     document.getElementById('comment').innerHTML = comment;
-    if (comment == "") document.getElementById('comment').classList.add('d-none');
+    if (comment == "" || comment == undefined) document.getElementById('comment').classList.add('d-none');
     else document.getElementById('comment').classList.remove('d-none');
 }
 
