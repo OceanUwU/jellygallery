@@ -1103,4 +1103,11 @@ var images = [
         "date": "01 Sep 2025 18:09:00 GMT+1",
         "comment": "",
     },
+    {
+        "filename": "sharpe.png",
+        "title": "What if Sharpe met Jelly G.!?",
+        "author": "Vex",
+        "date": "01 Sep 2025 18:17:00 GMT+1",
+        "comment": "crazy crossover: this lost concept art now released",
+    },
 ]
