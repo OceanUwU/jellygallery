@@ -240,7 +240,7 @@ var images = [
     {
         "filename": "doodle.png",
         "title": "Jelly Doodles",
-        "author": "oecan",
+        "author": "ocean",
         "date": "06 Jul 2025 05:28:00 GMT",
         "comment": "",
     },
