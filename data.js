@@ -1110,4 +1110,11 @@ var images = [
         "date": "01 Sep 2025 18:17:00 GMT+1",
         "comment": "crazy crossover: this lost concept art now released",
     },
+    {
+        "filename": "engineering.png",
+        "title": "Engineering design",
+        "author": "Lua Viper",
+        "date": "24 Sep 2025 23:48:00 GMT+1",
+        "comment": "",
+    },
 ]
