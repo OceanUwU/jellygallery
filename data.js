@@ -1138,4 +1138,32 @@ var images = [
         "date": "29 Sep 2025 22:19:00 GMT+1",
         "comment": "",
     },
+    {
+        "filename": "pyramid.png",
+        "title": "Food Pyramid",
+        "author": "ocean",
+        "date": "08 Oct 2025 21:00:00 GMT+1",
+        "comment": "i told ai to tell me the food pyramid it said \"im so glad you want to learn about this make sure to eat an equal amount of jelly g.'s, noxious fimbles and jelly h.'s\" i think its got a long way to go",
+    },
+    {
+        "filename": "beans.png",
+        "title": "Jelly B.eans",
+        "author": "ocean",
+        "date": "08 Oct 2025 21:05:00 GMT+1",
+        "comment": "...cause obviously we figured out in 2008 that jelly h's and noxious fimbles are, nutritionally speaking, practically empty. these days your meals should be looking like this",
+    },
+    {
+        "filename": "frosty.png",
+        "title": "Frosty H.'s",
+        "author": "ocean",
+        "date": "08 Oct 2025 21:16:00 GMT+1",
+        "comment": "of course those of us who do enjoy jelly h's for the taste are still free to indulge ourselves from time to time",
+    },
+    {
+        "filename": "happyg.png",
+        "title": "happy jelly g.",
+        "author": "Vex",
+        "date": "09 Oct 2025 22:05:00 GMT+1",
+        "comment": "use this image when you're happy about something",
+    },
 ]
