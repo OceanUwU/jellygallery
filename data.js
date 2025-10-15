@@ -1173,4 +1173,11 @@ var images = [
         "date": "15 Oct 2025 02:13:00 GMT+1",
         "comment": "this is not my wholehearted support of apple i was just at the store incidentally",
     },
+    {
+        "filename": "bumps.png",
+        "title": "apple jelly g.",
+        "author": "ocean",
+        "date": "15 Oct 2025 03:53:00 GMT+1",
+        "comment": "\"apple jelly g. should only have a 1-bumped head instead of 2 bumps\"",
+    },
 ]
