@@ -1166,4 +1166,11 @@ var images = [
         "date": "09 Oct 2025 22:05:00 GMT+1",
         "comment": "use this image when you're happy about something",
     },
+    {
+        "filename": "ipad.png",
+        "title": "what if jelly g. got ipad",
+        "author": "Vex",
+        "date": "15 Oct 2025 02:13:00 GMT+1",
+        "comment": "this is not my wholehearted support of apple i was just at the store incidentally",
+    },
 ]
