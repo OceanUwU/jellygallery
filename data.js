@@ -1180,4 +1180,32 @@ var images = [
         "date": "15 Oct 2025 03:53:00 GMT+1",
         "comment": "\"apple jelly g. should only have a 1-bumped head instead of 2 bumps\"",
     },
+    {
+        "filename": "ascii.png",
+        "title": "ascii g.",
+        "author": "Vex",
+        "date": "21 Oct 2025 05:37:00 GMT+1",
+        "comment": "",
+    },
+    {
+        "filename": "dream.png",
+        "title": "Jelly G. on dreams",
+        "author": "Vex",
+        "date": "22 Oct 2025 07:45:00 GMT+1",
+        "comment": "",
+    },
+    {
+        "filename": "draw.png",
+        "title": "Anyone can make Jelly G. comics!",
+        "author": "Vex",
+        "date": "22 Oct 2025 07:51:00 GMT+1",
+        "comment": "That includes Jelly G.",
+    },
+    {
+        "filename": "ironclad.png",
+        "title": "Jelly G. dresses up for halloween",
+        "author": "Aurora",
+        "date": "22 Oct 2025 08:00:00 GMT+1",
+        "comment": "",
+    },
 ]
