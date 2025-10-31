@@ -1208,4 +1208,12 @@ var images = [
         "date": "22 Oct 2025 08:00:00 GMT+1",
         "comment": "",
     },
+    {
+        "filename": "whatthestonesay.mp4",
+        "videoType": "mp4",
+        "title": "WHAT DO YOU SAY?",
+        "author": "ocean",
+        "date": "31 Oct 2025 17:57:00 GMT",
+        "comment": "See also: <a href=https://www.tiktok.com/@ragefaic/video/7091702668955012358>this TikTok</a>",
+    },
 ]
