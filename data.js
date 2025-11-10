@@ -1216,4 +1216,11 @@ var images = [
         "date": "31 Oct 2025 17:57:00 GMT",
         "comment": "See also: <a href=https://www.tiktok.com/@ragefaic/video/7091702668955012358>this TikTok</a>",
     },
+    {
+        "filename": "gellyjexplains.png",
+        "title": "Gelly J. explains",
+        "author": "Enbeon",
+        "date": "10 Nov 2025 00:45:00 GMT",
+        "comment": "",
+    },
 ]
