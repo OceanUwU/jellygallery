@@ -1230,4 +1230,18 @@ var images = [
         "date": "16 Nov 2025 18:51:00 GMT",
         "comment": "",
     },
+    {
+        "filename": "fightinggame.png",
+        "title": "\"i love when fighting games have a story mode and becuase they need to use all the characters or whatever it's like\"",
+        "author": "Vex",
+        "date": "22 Nov 2025 20:31:00 GMT",
+        "comment": "",
+    },
+    {
+        "filename": "dialogue.png",
+        "title": "\"also when they have to write pre-fight dialogue for every set of characters even when the characters are friends who would never fight\"",
+        "author": "Vex",
+        "date": "22 Nov 2025 22:00:00 GMT",
+        "comment": "",
+    },
 ]
