@@ -1232,17 +1232,17 @@ var images = [
     },
     {
         "filename": "fightinggame.png",
-        "title": "\"i love when fighting games have a story mode and becuase they need to use all the characters or whatever it's like\"",
+        "title": "Jelly G. VS Jelly H.",
         "author": "Vex",
         "date": "22 Nov 2025 20:31:00 GMT",
-        "comment": "",
+        "comment": "\"i love when fighting games have a story mode and becuase they need to use all the characters or whatever it's like\"",
     },
     {
         "filename": "dialogue.png",
-        "title": "\"also when they have to write pre-fight dialogue for every set of characters even when the characters are friends who would never fight\"",
+        "title": "Pre-fight dialogue",
         "author": "Vex",
         "date": "22 Nov 2025 22:00:00 GMT",
-        "comment": "",
+        "comment": "\"also when they have to write pre-fight dialogue for every set of characters even when the characters are friends who would never fight\"",
     },
     {
         "filename": "tellyv.png",
