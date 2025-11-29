@@ -1331,7 +1331,7 @@ var images = [
     {
         "filename": "prank.png",
         "title": "Just a prank bro",
-        "author": "Vex",
+        "author": "Ocean",
         "date": "29 Nov 2025 07:05:00 GMT",
         "comment": "",
     },
