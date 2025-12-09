@@ -46,7 +46,7 @@ addEventListener('load', _ => {
     let gallery = document.getElementById('gallery');
     images.forEach(img => {
         if (Object.hasOwn(img, "videoType")) {
-            gallery.innerHTML += `<div class="imag" id="${img.filename}" data-bs-toggle="tooltip" title="${img.title.replace(/"/g, '&quot;')}"><img onclick="showVideo('${img.filename}', '${img.videoType}')" src="video/${img.filename}-thumb.png"></div>`;
+            gallery.innerHTML += `<div class="imag" id="${img.filename}" data-bs-toggle="tooltip" title="${img.title.replace(/"/g, '&quot;')}"><span class="material-symbols-outlined icon" title="Video">movie</span><img onclick="showVideo('${img.filename}', '${img.videoType}')" src="video/${img.filename}-thumb.png"></div>`;
         } else {
             gallery.innerHTML += `<div class="imag" id="${img.filename}" data-bs-toggle="tooltip" title="${img.title.replace(/"/g, '&quot;')}"><img onclick="showImag('${img.filename}')" src="img/${img.filename}"></div>`;
         }
