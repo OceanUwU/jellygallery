@@ -1331,7 +1331,7 @@ var images = [
     {
         "filename": "prank.png",
         "title": "Just a prank bro",
-        "author": "Ocean",
+        "author": "ocean",
         "date": "29 Nov 2025 07:05:00 GMT",
         "comment": "",
     },
@@ -1340,6 +1340,28 @@ var images = [
         "title": "And now: perhaps a hot take",
         "author": "Lua Viper",
         "date": "29 Nov 2025 07:42:00 GMT",
+        "comment": "",
+    },
+    {
+        "filename": "might.mp4",
+        "videoType": "mp4",
+        "title": "Two best friends",
+        "author": "ocean",
+        "date": "08 Dec 2025 23:48:00 GMT",
+        "comment": "before you watch this i sincerely apologise in advance (<a href=https://www.tiktok.com/@kiwimangokittens/video/6974767132563213573>audio source</a>)",
+    },
+    {
+        "filename": "babies.png",
+        "title": "Jelly babies",
+        "author": "ocean",
+        "date": "08 Dec 2025 23:58:00 GMT",
+        "comment": "",
+    },
+    {
+        "filename": "reaction.png",
+        "title": "Fimble's reaction to that information",
+        "author": "Vex",
+        "date": "09 Dec 2025 00:08:00 GMT",
         "comment": "",
     },
 ]
