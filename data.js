@@ -1364,4 +1364,11 @@ var images = [
         "date": "09 Dec 2025 00:08:00 GMT",
         "comment": "",
     },
+    {
+        "filename": "birthday2.png",
+        "title": "Jelly G. wishes you a happy birthday",
+        "author": "Vex",
+        "date": "16 Dec 2025 23:31:00 GMT",
+        "comment": "",
+    },
 ]
