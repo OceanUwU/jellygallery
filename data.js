@@ -1371,4 +1371,18 @@ var images = [
         "date": "16 Dec 2025 23:31:00 GMT",
         "comment": "",
     },
+    {
+        "filename": "maximum2.png",
+        "title": "Jelly G. on \"maximum\" again",
+        "author": "Lua Viper",
+        "date": "28 Dec 2025 05:16:00 GMT",
+        "comment": "",
+    },
+    {
+        "filename": "poyo.png",
+        "title": "But how did Jelly G. learn game design?",
+        "author": "Vex",
+        "date": "28 Dec 2025 06:22:00 GMT",
+        "comment": "",
+    },
 ]
