@@ -37,9 +37,31 @@ body {
     object-fit: cover;
 }
 
+.imag>.text-thumb {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin-left: 5%;
+    margin-top: 5%;
+    width: 90%;
+    height: 90%;
+    transition: all 0.2s;
+}
+
+.imag>.text-thumb:hover {
+    margin-left: 0%;
+    margin-top: 0%;
+    width: 100%;
+    height: 100%;
+    font-size: 111%;
+}
+
 .imag>.icon {
     position: absolute;
     font-size: xx-large;
+}
+
+.imag>.white-bg {
     background-color: white;
 }
 
@@ -53,6 +75,8 @@ body {
     position: fixed;
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 #imag-container, #video-container {

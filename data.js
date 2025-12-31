@@ -1385,4 +1385,12 @@ var images = [
         "date": "28 Dec 2025 06:22:00 GMT",
         "comment": "",
     },
+    {
+        "filename": "jellygvsglip.ogg",
+        "audioType": "ogg",
+        "title": "Epic Rap Battle: Jelly G. VS Glip",
+        "author": "Vex",
+        "date": "31 Dec 2025 23:02:00 GMT",
+        "comment": "",
+    },
 ]
