@@ -10,6 +10,8 @@ imagePopup.onclick = () => {
         imagePopup.style.display = 'none';
         videoController.pause();
         videoController.currentTime = 0;
+        audioController.pause();
+        audioController.currentTime = 0;
     }, POPUP_SHOW_TIME-10);
 };
 
