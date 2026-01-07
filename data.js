@@ -1396,4 +1396,19 @@ var images = [
         "date": "31 Dec 2025 23:02:00 GMT",
         "comment": "",
     },
+    {
+        "filename": "build.gif",
+        "thumb": "build-thumb.png",
+        "title": "How to make a character",
+        "author": "ocean",
+        "date": "07 Jan 2026 16:25:00 GMT",
+        "comment": "making a character is easy- oh shoot i made the same thing yet again goddammit",
+    },
+    {
+        "filename": "portersmilejelly.png",
+        "title": "Smile! :D",
+        "author": "ocean",
+        "date": "07 Jan 2026 16:41:00 GMT",
+        "comment": "this would be jelly g characterts if they were the porter robisonson smile :D picture",
+    },
 ]
