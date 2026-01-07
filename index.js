@@ -64,12 +64,13 @@ addEventListener('load', _ => {
     let gallery = document.getElementById('gallery');
     images.forEach(img => {
         var safeTitle = img.title.replace(/"/g, '&quot;');
+        var thumbFilename = img.thumb ?? img.filename;
         if (Object.hasOwn(img, "videoType")) {
-            gallery.innerHTML += `<div class="imag" id="${img.filename}" data-bs-toggle="tooltip" title="${safeTitle}"><span class="material-symbols-outlined icon white-bg" title="Video">movie</span><img onclick="showVideo('${img.filename}', '${img.videoType}')" src="video/${img.filename}-thumb.png"></div>`;
+            gallery.innerHTML += `<div class="imag" id="${img.filename}" data-bs-toggle="tooltip" title="${safeTitle}"><span class="material-symbols-outlined icon white-bg" title="Video">movie</span><img onclick="showVideo('${img.filename}', '${img.videoType}')" src="video/${thumbFilename}"></div>`;
         } else if (Object.hasOwn(img, "audioType")) {
             gallery.innerHTML += `<div class="imag" id="${img.filename}" data-bs-toggle="tooltip" title="${safeTitle}"><span class="material-symbols-outlined icon" title="Audio file">volume_up</span><span onclick="showAudio('${img.filename}', '${img.audioType}')" class="text-thumb">${safeTitle}</span></div>`;
         } else {
-            gallery.innerHTML += `<div class="imag" id="${img.filename}" data-bs-toggle="tooltip" title="${safeTitle}"><img onclick="showImag('${img.filename}')" src="img/${img.filename}"></div>`;
+            gallery.innerHTML += `<div class="imag" id="${img.filename}" data-bs-toggle="tooltip" title="${safeTitle}"><img onclick="showImag('${img.filename}')" src="img/${thumbFilename}"></div>`;
         }
         new bootstrap.Tooltip(gallery.children[gallery.children.length - 1]);
     });

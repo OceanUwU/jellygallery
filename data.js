@@ -1056,6 +1056,7 @@ var images = [
     {
         "filename": "singingG.mp4",
         "videoType": "mp4",
+        "thumb": "singingG-thumb.png",
         "title": "SINGING G.",
         "author": "ocean",
         "date": "26 Aug 2025 22:25:00 GMT+1",
@@ -1211,6 +1212,7 @@ var images = [
     {
         "filename": "whatthestonesay.mp4",
         "videoType": "mp4",
+        "thumb": "whatthestonesay-thumb.png",
         "title": "WHAT DO YOU SAY?",
         "author": "ocean",
         "date": "31 Oct 2025 17:57:00 GMT",
@@ -1345,6 +1347,7 @@ var images = [
     {
         "filename": "might.mp4",
         "videoType": "mp4",
+        "thumb": "might-thumb.png",
         "title": "Two best friends",
         "author": "ocean",
         "date": "08 Dec 2025 23:48:00 GMT",
