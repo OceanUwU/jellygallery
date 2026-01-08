@@ -1411,4 +1411,12 @@ var images = [
         "date": "07 Jan 2026 16:41:00 GMT",
         "comment": "this would be jelly g characterts if they were the porter robisonson smile :D picture",
     },
+    {
+        "filename": "dizzy.gif",
+        "thumb": "dizzy-thumb.png",
+        "title": "Dizzy G.",
+        "author": "Vex",
+        "date": "08 Jan 2026 01:47:00 GMT",
+        "comment": "",
+    },
 ]
