@@ -1144,7 +1144,7 @@ var images = [
         "title": "words collide",
         "author": "ocean",
         "date": "29 Sep 2025 22:19:00 GMT+1",
-        "comment": "",
+        "comment": "<a href='https://pbs.twimg.com/media/G1nlRR7WYAAI1FA?format=png&name=large'>original</a>",
     },
     {
         "filename": "pyramid.png",
