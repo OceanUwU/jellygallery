@@ -1435,4 +1435,11 @@ var images = [
         "date": "10 Jan 2026 22:47:00 GMT",
         "comment": "when jelly g's lawyer fell asleep in court why did they have to try and defend themself?? (<a href=https://youtu.be/Phh3oVCtzBg>audio source</a>)",
     },
+    {
+        "filename": "award2.png",
+        "title": "The Mod Awards",
+        "author": "Lua Viper",
+        "date": "18 Jan 2026 21:25:00 GMT",
+        "comment": "",
+    },
 ]
